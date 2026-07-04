@@ -1,0 +1,30 @@
+{
+    "ntfyTopic": "TRADEIt",
+    "cooldownHours": 6,
+    "coins": [
+          {
+                  "symbol": "SOLUSDT",
+                  "label": "SOL",
+                  "direction": "short",
+                  "rejectionZoneEnter": 85.0,
+                  "rejectionConfirmBelow": 84.0,
+                  "breakdownLevel": 80.70,
+                  "breakdownConfirmBelow": 80.30,
+                  "stopRejection": 87.5,
+                  "stopBreakdown": 82.5,
+                  "targets": "78 / 76 / 73"
+          },
+          {
+                  "symbol": "BTCUSDT",
+                  "label": "BTC",
+                  "direction": "short",
+                  "rejectionZoneEnter": 63000,
+                  "rejectionConfirmBelow": 62200,
+                  "breakdownLevel": 61000,
+                  "breakdownConfirmBelow": 60700,
+                  "stopRejection": 64000,
+                  "stopBreakdown": 61800,
+                  "targets": "59000 / 57500 / 56000"
+          }
+    ]
+}
