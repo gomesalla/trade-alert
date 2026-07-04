@@ -1,0 +1,30 @@
+name: Trade Alert
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run alert check
+        run: node scripts/trade-alert.js
+
+      - name: Commit updated state
+        run: |
+          git config user.name "trade-alert-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state.json
+          git diff --staged --quiet || git commit -m "Update alert state [skip ci]"
+          git push
