@@ -5,8 +5,8 @@
     "lastBreakdownAlertAt": 1783332607845
   },
   "BTCUSDT": {
-    "touchedZoneHigh": true,
-    "lastRejectionAlertAt": 0,
+    "touchedZoneHigh": false,
+    "lastRejectionAlertAt": 1783346536704,
     "lastBreakdownAlertAt": 0
   }
 }
