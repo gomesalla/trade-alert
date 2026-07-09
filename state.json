@@ -2,10 +2,10 @@
   "SOLUSDT": {
     "touchedZoneHigh": false,
     "lastRejectionAlertAt": 0,
-    "lastBreakdownAlertAt": 1783559487199
+    "lastBreakdownAlertAt": 1783586610541
   },
   "BTCUSDT": {
-    "touchedZoneHigh": false,
+    "touchedZoneHigh": true,
     "lastRejectionAlertAt": 1783506147046,
     "lastBreakdownAlertAt": 0
   }
