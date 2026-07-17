@@ -1,12 +1,152 @@
 {
   "SOLUSDT": {
     "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 0,
-    "lastBreakdownAlertAt": 1784302697999
+    "lastBreakdownAlertAt": 1784302697999,
+    "lastBounceAlertAt": 0,
+    "lastBreakoutAlertAt": 0
   },
   "BTCUSDT": {
     "touchedZoneHigh": true,
+    "touchedZoneHighRSI": false,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1783966166100,
-    "lastBreakdownAlertAt": 0
+    "lastBreakdownAlertAt": 0,
+    "lastBounceAlertAt": 0,
+    "lastBreakoutAlertAt": 0
+  },
+  "ETHUSDT": {
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
+    "lastRejectionAlertAt": 0,
+    "lastBreakdownAlertAt": 0,
+    "lastBounceAlertAt": 0,
+    "lastBreakoutAlertAt": 0
+  },
+  "BNBUSDT": {
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
+    "lastRejectionAlertAt": 0,
+    "lastBreakdownAlertAt": 0,
+    "lastBounceAlertAt": 0,
+    "lastBreakoutAlertAt": 0
+  },
+  "XRPUSDT": {
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
+    "lastRejectionAlertAt": 0,
+    "lastBreakdownAlertAt": 0,
+    "lastBounceAlertAt": 0,
+    "lastBreakoutAlertAt": 0
+  },
+  "DOGEUSDT": {
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
+    "lastRejectionAlertAt": 0,
+    "lastBreakdownAlertAt": 0,
+    "lastBounceAlertAt": 0,
+    "lastBreakoutAlertAt": 0
+  },
+  "ADAUSDT": {
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
+    "lastRejectionAlertAt": 0,
+    "lastBreakdownAlertAt": 0,
+    "lastBounceAlertAt": 0,
+    "lastBreakoutAlertAt": 0
+  },
+  "LINKUSDT": {
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
+    "lastRejectionAlertAt": 0,
+    "lastBreakdownAlertAt": 0,
+    "lastBounceAlertAt": 0,
+    "lastBreakoutAlertAt": 0
+  },
+  "LUNCUSDT": {
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
+    "lastRejectionAlertAt": 0,
+    "lastBreakdownAlertAt": 0,
+    "lastBounceAlertAt": 0,
+    "lastBreakoutAlertAt": 0
+  },
+  "PEPEUSDT": {
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
+    "lastRejectionAlertAt": 0,
+    "lastBreakdownAlertAt": 0,
+    "lastBounceAlertAt": 0,
+    "lastBreakoutAlertAt": 0
+  },
+  "SHIBUSDT": {
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
+    "lastRejectionAlertAt": 0,
+    "lastBreakdownAlertAt": 0,
+    "lastBounceAlertAt": 0,
+    "lastBreakoutAlertAt": 0
+  },
+  "ETCUSDT": {
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
+    "lastRejectionAlertAt": 0,
+    "lastBreakdownAlertAt": 0,
+    "lastBounceAlertAt": 0,
+    "lastBreakoutAlertAt": 0
+  },
+  "SUSHIUSDT": {
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
+    "lastRejectionAlertAt": 0,
+    "lastBreakdownAlertAt": 0,
+    "lastBounceAlertAt": 0,
+    "lastBreakoutAlertAt": 0
+  },
+  "TWTUSDT": {
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
+    "lastRejectionAlertAt": 0,
+    "lastBreakdownAlertAt": 0,
+    "lastBounceAlertAt": 0,
+    "lastBreakoutAlertAt": 0
+  },
+  "WLDUSDT": {
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
+    "lastRejectionAlertAt": 0,
+    "lastBreakdownAlertAt": 0,
+    "lastBounceAlertAt": 0,
+    "lastBreakoutAlertAt": 0
   }
 }
