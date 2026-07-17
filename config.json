@@ -1,0 +1,40 @@
+{
+  "ntfyTopic": "TRADEIt",
+  "cooldownHours": 6,
+
+  "defaults": {
+    "direction": "both",
+    "interval": "4h",
+    "klineLimit": 500,
+    "lookbackCandles": 60,
+    "rsiPeriod": 14,
+    "rsiOverbought": 68,
+    "rsiOversold": 32,
+    "emaFast": 50,
+    "emaSlow": 200,
+    "volumeLookback": 20,
+    "volumeMultiplier": 1.3,
+    "zoneEnterBufferPct": 0.3,
+    "confirmBufferPct": 0.8,
+    "stopBufferPct": 2.5,
+    "targetPcts": [3, 6, 10]
+  },
+
+  "coins": [
+    { "symbol": "BTCUSDT", "label": "BTC" },
+    { "symbol": "SOLUSDT", "label": "SOL" },
+    { "symbol": "ETHUSDT", "label": "ETH" },
+    { "symbol": "BNBUSDT", "label": "BNB" },
+    { "symbol": "XRPUSDT", "label": "XRP" },
+    { "symbol": "DOGEUSDT", "label": "DOGE" },
+    { "symbol": "ADAUSDT", "label": "ADA" },
+    { "symbol": "LINKUSDT", "label": "LINK" },
+    { "symbol": "LUNCUSDT", "label": "LUNC" },
+    { "symbol": "PEPEUSDT", "label": "PEPE" },
+    { "symbol": "SHIBUSDT", "label": "SHIB" },
+    { "symbol": "ETCUSDT", "label": "ETC" },
+    { "symbol": "SUSHIUSDT", "label": "SUSHI" },
+    { "symbol": "TWTUSDT", "label": "TWT" },
+    { "symbol": "WLDUSDT", "label": "WLD" }
+  ]
+}
