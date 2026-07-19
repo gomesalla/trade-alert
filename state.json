@@ -82,7 +82,7 @@
   "LUNCUSDT": {
     "touchedZoneHigh": false,
     "touchedZoneHighRSI": false,
-    "touchedZoneLow": false,
+    "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 0,
     "lastBreakdownAlertAt": 0,
@@ -120,11 +120,11 @@
     "lastBreakoutAlertAt": 0
   },
   "SUSHIUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": false,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 0,
+    "lastRejectionAlertAt": 1784478918048,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
     "lastBreakoutAlertAt": 0
