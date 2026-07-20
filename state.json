@@ -90,7 +90,7 @@
     "lastBreakoutAlertAt": 0
   },
   "PEPEUSDT": {
-    "touchedZoneHigh": false,
+    "touchedZoneHigh": true,
     "touchedZoneHighRSI": false,
     "touchedZoneLow": false,
     "touchedZoneLowRSI": false,
