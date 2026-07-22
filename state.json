@@ -20,7 +20,7 @@
     "lastBreakoutAlertAt": 0
   },
   "ETHUSDT": {
-    "touchedZoneHigh": false,
+    "touchedZoneHigh": true,
     "touchedZoneHighRSI": false,
     "touchedZoneLow": false,
     "touchedZoneLowRSI": false,
