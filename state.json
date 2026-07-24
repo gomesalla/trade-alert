@@ -83,9 +83,9 @@
     "touchedZoneHigh": false,
     "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
-    "touchedZoneLowRSI": false,
+    "touchedZoneLowRSI": true,
     "lastRejectionAlertAt": 0,
-    "lastBreakdownAlertAt": 0,
+    "lastBreakdownAlertAt": 1784855254575,
     "lastBounceAlertAt": 0,
     "lastBreakoutAlertAt": 0
   },
