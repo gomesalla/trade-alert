@@ -82,11 +82,11 @@
   "LUNCUSDT": {
     "touchedZoneHigh": false,
     "touchedZoneHighRSI": false,
-    "touchedZoneLow": true,
-    "touchedZoneLowRSI": true,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 0,
     "lastBreakdownAlertAt": 1784855254575,
-    "lastBounceAlertAt": 1784911041553,
+    "lastBounceAlertAt": 1784983408158,
     "lastBreakoutAlertAt": 0
   },
   "PEPEUSDT": {
