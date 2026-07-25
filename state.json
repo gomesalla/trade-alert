@@ -100,7 +100,7 @@
     "lastBreakoutAlertAt": 0
   },
   "SHIBUSDT": {
-    "touchedZoneHigh": false,
+    "touchedZoneHigh": true,
     "touchedZoneHighRSI": false,
     "touchedZoneLow": false,
     "touchedZoneLowRSI": false,
