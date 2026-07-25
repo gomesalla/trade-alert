@@ -112,11 +112,11 @@
   "ETCUSDT": {
     "touchedZoneHigh": false,
     "touchedZoneHighRSI": false,
-    "touchedZoneLow": true,
-    "touchedZoneLowRSI": true,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 0,
     "lastBreakdownAlertAt": 0,
-    "lastBounceAlertAt": 0,
+    "lastBounceAlertAt": 1784938585943,
     "lastBreakoutAlertAt": 0
   },
   "SUSHIUSDT": {
