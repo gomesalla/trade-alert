@@ -70,7 +70,7 @@
     "lastBreakoutAlertAt": 0
   },
   "LINKUSDT": {
-    "touchedZoneHigh": false,
+    "touchedZoneHigh": true,
     "touchedZoneHighRSI": false,
     "touchedZoneLow": false,
     "touchedZoneLowRSI": false,
