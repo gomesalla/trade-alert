@@ -20,11 +20,11 @@
     "lastBreakoutAlertAt": 0
   },
   "ETHUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": false,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 1784640506810,
+    "lastRejectionAlertAt": 1785158946361,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
     "lastBreakoutAlertAt": 0
