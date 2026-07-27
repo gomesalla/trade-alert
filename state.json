@@ -45,7 +45,7 @@
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1784667757990,
-    "lastBreakdownAlertAt": 0,
+    "lastBreakdownAlertAt": 1785194344333,
     "lastBounceAlertAt": 0,
     "lastBreakoutAlertAt": 0
   },
@@ -65,7 +65,7 @@
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 0,
-    "lastBreakdownAlertAt": 0,
+    "lastBreakdownAlertAt": 1785194344849,
     "lastBounceAlertAt": 0,
     "lastBreakoutAlertAt": 0
   },
@@ -83,7 +83,7 @@
     "touchedZoneHigh": false,
     "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
-    "touchedZoneLowRSI": false,
+    "touchedZoneLowRSI": true,
     "lastRejectionAlertAt": 0,
     "lastBreakdownAlertAt": 1784855254575,
     "lastBounceAlertAt": 1784983408158,
@@ -122,7 +122,7 @@
   "SUSHIUSDT": {
     "touchedZoneHigh": false,
     "touchedZoneHighRSI": false,
-    "touchedZoneLow": false,
+    "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1784478918048,
     "lastBreakdownAlertAt": 0,
@@ -142,7 +142,7 @@
   "WLDUSDT": {
     "touchedZoneHigh": false,
     "touchedZoneHighRSI": false,
-    "touchedZoneLow": false,
+    "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 0,
     "lastBreakdownAlertAt": 0,
