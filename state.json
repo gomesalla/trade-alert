@@ -42,11 +42,11 @@
   "XRPUSDT": {
     "touchedZoneHigh": false,
     "touchedZoneHighRSI": false,
-    "touchedZoneLow": true,
-    "touchedZoneLowRSI": true,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1784667757990,
     "lastBreakdownAlertAt": 1785194344333,
-    "lastBounceAlertAt": 0,
+    "lastBounceAlertAt": 1785253301008,
     "lastBreakoutAlertAt": 0
   },
   "DOGEUSDT": {
