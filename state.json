@@ -130,7 +130,7 @@
     "lastBreakoutAlertAt": 0
   },
   "TWTUSDT": {
-    "touchedZoneHigh": false,
+    "touchedZoneHigh": true,
     "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
@@ -142,11 +142,11 @@
   "WLDUSDT": {
     "touchedZoneHigh": false,
     "touchedZoneHighRSI": false,
-    "touchedZoneLow": true,
-    "touchedZoneLowRSI": true,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 0,
     "lastBreakdownAlertAt": 0,
-    "lastBounceAlertAt": 1785044819660,
+    "lastBounceAlertAt": 1785244706705,
     "lastBreakoutAlertAt": 0
   }
 }
