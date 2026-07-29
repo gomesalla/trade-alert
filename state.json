@@ -122,11 +122,11 @@
   "SUSHIUSDT": {
     "touchedZoneHigh": false,
     "touchedZoneHighRSI": false,
-    "touchedZoneLow": true,
-    "touchedZoneLowRSI": true,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1784478918048,
     "lastBreakdownAlertAt": 0,
-    "lastBounceAlertAt": 1785309751982,
+    "lastBounceAlertAt": 1785341376035,
     "lastBreakoutAlertAt": 0
   },
   "TWTUSDT": {
