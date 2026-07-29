@@ -142,8 +142,8 @@
   "WLDUSDT": {
     "touchedZoneHigh": false,
     "touchedZoneHighRSI": false,
-    "touchedZoneLow": false,
-    "touchedZoneLowRSI": false,
+    "touchedZoneLow": true,
+    "touchedZoneLowRSI": true,
     "lastRejectionAlertAt": 0,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 1785244706705,
