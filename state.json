@@ -123,7 +123,7 @@
     "touchedZoneHigh": false,
     "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
-    "touchedZoneLowRSI": false,
+    "touchedZoneLowRSI": true,
     "lastRejectionAlertAt": 1784478918048,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
@@ -142,11 +142,11 @@
   "WLDUSDT": {
     "touchedZoneHigh": false,
     "touchedZoneHighRSI": false,
-    "touchedZoneLow": true,
-    "touchedZoneLowRSI": true,
+    "touchedZoneLow": false,
+    "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 0,
     "lastBreakdownAlertAt": 0,
-    "lastBounceAlertAt": 1785244706705,
+    "lastBounceAlertAt": 1785299389396,
     "lastBreakoutAlertAt": 0
   }
 }
