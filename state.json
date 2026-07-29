@@ -130,7 +130,7 @@
     "lastBreakoutAlertAt": 0
   },
   "TWTUSDT": {
-    "touchedZoneHigh": false,
+    "touchedZoneHigh": true,
     "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
