@@ -31,7 +31,7 @@
   },
   "BNBUSDT": {
     "touchedZoneHigh": true,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": false,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 0,
