@@ -12,7 +12,7 @@
   "BTCUSDT": {
     "touchedZoneHigh": true,
     "touchedZoneHighRSI": false,
-    "touchedZoneLow": false,
+    "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1783966166100,
     "lastBreakdownAlertAt": 0,
@@ -82,7 +82,7 @@
   "LUNCUSDT": {
     "touchedZoneHigh": false,
     "touchedZoneHighRSI": false,
-    "touchedZoneLow": false,
+    "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 0,
     "lastBreakdownAlertAt": 1784855254575,
