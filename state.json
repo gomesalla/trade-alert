@@ -22,7 +22,7 @@
   "ETHUSDT": {
     "touchedZoneHigh": false,
     "touchedZoneHighRSI": false,
-    "touchedZoneLow": false,
+    "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1785158946361,
     "lastBreakdownAlertAt": 0,
@@ -112,7 +112,7 @@
   "ETCUSDT": {
     "touchedZoneHigh": true,
     "touchedZoneHighRSI": false,
-    "touchedZoneLow": false,
+    "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 0,
     "lastBreakdownAlertAt": 0,
