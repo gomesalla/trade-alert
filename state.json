@@ -61,7 +61,7 @@
   },
   "ADAUSDT": {
     "touchedZoneHigh": true,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 0,
