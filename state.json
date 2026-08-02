@@ -60,11 +60,11 @@
     "lastBreakoutAlertAt": 0
   },
   "ADAUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 0,
+    "lastRejectionAlertAt": 1785688060238,
     "lastBreakdownAlertAt": 1785194344849,
     "lastBounceAlertAt": 0,
     "lastBreakoutAlertAt": 0
