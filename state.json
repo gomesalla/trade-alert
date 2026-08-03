@@ -60,7 +60,7 @@
     "lastBreakoutAlertAt": 0
   },
   "ADAUSDT": {
-    "touchedZoneHigh": false,
+    "touchedZoneHigh": true,
     "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
