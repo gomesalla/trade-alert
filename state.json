@@ -30,7 +30,7 @@
     "lastBreakoutAlertAt": 0
   },
   "BNBUSDT": {
-    "touchedZoneHigh": false,
+    "touchedZoneHigh": true,
     "touchedZoneHighRSI": false,
     "touchedZoneLow": false,
     "touchedZoneLowRSI": false,
