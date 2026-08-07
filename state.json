@@ -42,8 +42,8 @@
   "XRPUSDT": {
     "touchedZoneHigh": false,
     "touchedZoneHighRSI": false,
-    "touchedZoneLow": false,
-    "touchedZoneLowRSI": false,
+    "touchedZoneLow": true,
+    "touchedZoneLowRSI": true,
     "lastRejectionAlertAt": 1784667757990,
     "lastBreakdownAlertAt": 1785194344333,
     "lastBounceAlertAt": 1785253301008,
