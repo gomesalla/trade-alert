@@ -42,7 +42,7 @@
   "XRPUSDT": {
     "touchedZoneHigh": false,
     "touchedZoneHighRSI": false,
-    "touchedZoneLow": false,
+    "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1784667757990,
     "lastBreakdownAlertAt": 1785194344333,
