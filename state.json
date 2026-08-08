@@ -1,6 +1,6 @@
 {
   "SOLUSDT": {
-    "touchedZoneHigh": false,
+    "touchedZoneHigh": true,
     "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
