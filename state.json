@@ -50,7 +50,7 @@
     "lastBreakoutAlertAt": 0
   },
   "DOGEUSDT": {
-    "touchedZoneHigh": false,
+    "touchedZoneHigh": true,
     "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
