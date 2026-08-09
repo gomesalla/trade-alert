@@ -102,7 +102,7 @@
   "SHIBUSDT": {
     "touchedZoneHigh": false,
     "touchedZoneHighRSI": false,
-    "touchedZoneLow": false,
+    "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1785053990662,
     "lastBreakdownAlertAt": 0,
