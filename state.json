@@ -71,7 +71,7 @@
   },
   "LINKUSDT": {
     "touchedZoneHigh": true,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1784652804597,
