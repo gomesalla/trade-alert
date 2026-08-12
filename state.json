@@ -70,11 +70,11 @@
     "lastBreakoutAlertAt": 0
   },
   "LINKUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 1784652804597,
+    "lastRejectionAlertAt": 1786544446741,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
     "lastBreakoutAlertAt": 1786441258334
