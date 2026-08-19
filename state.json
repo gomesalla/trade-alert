@@ -30,7 +30,7 @@
     "lastBreakoutAlertAt": 0
   },
   "BNBUSDT": {
-    "touchedZoneHigh": false,
+    "touchedZoneHigh": true,
     "touchedZoneHighRSI": false,
     "touchedZoneLow": false,
     "touchedZoneLowRSI": false,
@@ -40,7 +40,7 @@
     "lastBreakoutAlertAt": 0
   },
   "XRPUSDT": {
-    "touchedZoneHigh": false,
+    "touchedZoneHigh": true,
     "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
@@ -70,14 +70,14 @@
     "lastBreakoutAlertAt": 0
   },
   "LINKUSDT": {
-    "touchedZoneHigh": false,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHigh": true,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1787144382677,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
-    "lastBreakoutAlertAt": 1786441258334
+    "lastBreakoutAlertAt": 1787154281626
   },
   "LUNCUSDT": {
     "touchedZoneHigh": true,
