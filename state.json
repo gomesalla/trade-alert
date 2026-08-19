@@ -77,7 +77,7 @@
     "lastRejectionAlertAt": 1787144382677,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
-    "lastBreakoutAlertAt": 1787154281626
+    "lastBreakoutAlertAt": 1787176774041
   },
   "LUNCUSDT": {
     "touchedZoneHigh": true,
@@ -100,7 +100,7 @@
     "lastBreakoutAlertAt": 0
   },
   "SHIBUSDT": {
-    "touchedZoneHigh": false,
+    "touchedZoneHigh": true,
     "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
