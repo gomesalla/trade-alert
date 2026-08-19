@@ -1,13 +1,13 @@
 {
   "SOLUSDT": {
     "touchedZoneHigh": true,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1786316323258,
     "lastBreakdownAlertAt": 1784302697999,
     "lastBounceAlertAt": 0,
-    "lastBreakoutAlertAt": 0
+    "lastBreakoutAlertAt": 1787173286052
   },
   "BTCUSDT": {
     "touchedZoneHigh": true,
@@ -27,11 +27,11 @@
     "lastRejectionAlertAt": 1785158946361,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
-    "lastBreakoutAlertAt": 0
+    "lastBreakoutAlertAt": 1787173286678
   },
   "BNBUSDT": {
     "touchedZoneHigh": true,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": false,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1786508249193,
@@ -51,7 +51,7 @@
   },
   "DOGEUSDT": {
     "touchedZoneHigh": true,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 0,
