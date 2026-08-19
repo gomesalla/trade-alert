@@ -11,7 +11,7 @@
   },
   "BTCUSDT": {
     "touchedZoneHigh": true,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1783966166100,
@@ -37,7 +37,7 @@
     "lastRejectionAlertAt": 1786508249193,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
-    "lastBreakoutAlertAt": 0
+    "lastBreakoutAlertAt": 1787175525617
   },
   "XRPUSDT": {
     "touchedZoneHigh": true,
