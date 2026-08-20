@@ -20,8 +20,8 @@
     "lastBreakoutAlertAt": 1787216099949
   },
   "ETHUSDT": {
-    "touchedZoneHigh": false,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHigh": true,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1787187407353,
@@ -61,13 +61,13 @@
   },
   "ADAUSDT": {
     "touchedZoneHigh": true,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1785688060238,
     "lastBreakdownAlertAt": 1785194344849,
     "lastBounceAlertAt": 1786907874664,
-    "lastBreakoutAlertAt": 0
+    "lastBreakoutAlertAt": 1787245321049
   },
   "LINKUSDT": {
     "touchedZoneHigh": false,
