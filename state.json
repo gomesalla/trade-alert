@@ -10,11 +10,11 @@
     "lastBreakoutAlertAt": 1787173286052
   },
   "BTCUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 1783966166100,
+    "lastRejectionAlertAt": 1787196210215,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
     "lastBreakoutAlertAt": 0
@@ -100,11 +100,11 @@
     "lastBreakoutAlertAt": 0
   },
   "SHIBUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 1785053990662,
+    "lastRejectionAlertAt": 1787196212809,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
     "lastBreakoutAlertAt": 0
