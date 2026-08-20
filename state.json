@@ -90,11 +90,11 @@
     "lastBreakoutAlertAt": 0
   },
   "PEPEUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": false,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 1787229448380,
+    "lastRejectionAlertAt": 1787270315250,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 1786928431932,
     "lastBreakoutAlertAt": 0
