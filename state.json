@@ -1,20 +1,20 @@
 {
   "SOLUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 1787187407022,
+    "lastRejectionAlertAt": 1787229447101,
     "lastBreakdownAlertAt": 1784302697999,
     "lastBounceAlertAt": 0,
     "lastBreakoutAlertAt": 1787173286052
   },
   "BTCUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 1787196210215,
+    "lastRejectionAlertAt": 1787229445982,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
     "lastBreakoutAlertAt": 1787216099949
@@ -30,11 +30,11 @@
     "lastBreakoutAlertAt": 1787173286678
   },
   "BNBUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": false,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 1787187407538,
+    "lastRejectionAlertAt": 1787229447433,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
     "lastBreakoutAlertAt": 1787175525617
@@ -50,11 +50,11 @@
     "lastBreakoutAlertAt": 0
   },
   "DOGEUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 1787187407906,
+    "lastRejectionAlertAt": 1787229447761,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
     "lastBreakoutAlertAt": 0
@@ -90,31 +90,31 @@
     "lastBreakoutAlertAt": 0
   },
   "PEPEUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": false,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 0,
+    "lastRejectionAlertAt": 1787229448380,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 1786928431932,
     "lastBreakoutAlertAt": 0
   },
   "SHIBUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 1787196212809,
+    "lastRejectionAlertAt": 1787229448566,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
     "lastBreakoutAlertAt": 0
   },
   "ETCUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 0,
+    "lastRejectionAlertAt": 1787229448747,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 1784938585943,
     "lastBreakoutAlertAt": 0
