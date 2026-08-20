@@ -110,8 +110,8 @@
     "lastBreakoutAlertAt": 0
   },
   "ETCUSDT": {
-    "touchedZoneHigh": false,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHigh": true,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1787229448747,
@@ -120,8 +120,8 @@
     "lastBreakoutAlertAt": 0
   },
   "SUSHIUSDT": {
-    "touchedZoneHigh": false,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHigh": true,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": false,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1787232731794,
