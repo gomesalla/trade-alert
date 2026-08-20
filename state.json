@@ -10,8 +10,8 @@
     "lastBreakoutAlertAt": 1787173286052
   },
   "BTCUSDT": {
-    "touchedZoneHigh": false,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHigh": true,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1787229445982,
@@ -30,8 +30,8 @@
     "lastBreakoutAlertAt": 1787173286678
   },
   "BNBUSDT": {
-    "touchedZoneHigh": false,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHigh": true,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": false,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1787229447433,
