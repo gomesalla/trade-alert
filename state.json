@@ -80,8 +80,8 @@
     "lastBreakoutAlertAt": 1787297888896
   },
   "LUNCUSDT": {
-    "touchedZoneHigh": false,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHigh": true,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1787315777960,
