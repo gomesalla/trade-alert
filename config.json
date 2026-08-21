@@ -21,21 +21,8 @@
   },
 
   "coins": [
-    { "symbol": "BTCUSDT", "label": "BTC" },
     { "symbol": "SOLUSDT", "label": "SOL" },
-    { "symbol": "ETHUSDT", "label": "ETH" },
-    { "symbol": "BNBUSDT", "label": "BNB" },
-    { "symbol": "XRPUSDT", "label": "XRP" },
-    { "symbol": "DOGEUSDT", "label": "DOGE" },
-    { "symbol": "ADAUSDT", "label": "ADA" },
-    { "symbol": "LINKUSDT", "label": "LINK" },
-    { "symbol": "LUNCUSDT", "label": "LUNC" },
-    { "symbol": "PEPEUSDT", "label": "PEPE" },
-    { "symbol": "SHIBUSDT", "label": "SHIB" },
-    { "symbol": "ETCUSDT", "label": "ETC" },
     { "symbol": "SUSHIUSDT", "label": "SUSHI" },
-    { "symbol": "TWTUSDT", "label": "TWT" },
-    { "symbol": "WLDUSDT", "label": "WLD" }
-    { "symbol": "TAOUSDT", "label": "WLD" }
+    { "symbol": "LUNCUSDT", "label": "LUNC" }
   ]
 }
