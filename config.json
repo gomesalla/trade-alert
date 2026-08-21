@@ -36,5 +36,6 @@
     { "symbol": "SUSHIUSDT", "label": "SUSHI" },
     { "symbol": "TWTUSDT", "label": "TWT" },
     { "symbol": "WLDUSDT", "label": "WLD" }
+    { "symbol": "TAOUSDT", "label": "WLD" }
   ]
 }
