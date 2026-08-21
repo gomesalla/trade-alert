@@ -10,8 +10,8 @@
     "lastBreakoutAlertAt": 1787173286052
   },
   "BTCUSDT": {
-    "touchedZoneHigh": false,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHigh": true,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1787286752952,
@@ -20,8 +20,8 @@
     "lastBreakoutAlertAt": 1787216099949
   },
   "ETHUSDT": {
-    "touchedZoneHigh": false,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHigh": true,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1787286754132,
@@ -50,8 +50,8 @@
     "lastBreakoutAlertAt": 0
   },
   "DOGEUSDT": {
-    "touchedZoneHigh": false,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHigh": true,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1787254376009,
@@ -60,8 +60,8 @@
     "lastBreakoutAlertAt": 0
   },
   "ADAUSDT": {
-    "touchedZoneHigh": false,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHigh": true,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1787286754828,
@@ -70,14 +70,14 @@
     "lastBreakoutAlertAt": 1787245321049
   },
   "LINKUSDT": {
-    "touchedZoneHigh": false,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHigh": true,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1787286755027,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
-    "lastBreakoutAlertAt": 1787176774041
+    "lastBreakoutAlertAt": 1787297888896
   },
   "LUNCUSDT": {
     "touchedZoneHigh": true,
@@ -107,11 +107,11 @@
     "lastRejectionAlertAt": 1787229448566,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
-    "lastBreakoutAlertAt": 0
+    "lastBreakoutAlertAt": 1787297889545
   },
   "ETCUSDT": {
-    "touchedZoneHigh": false,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHigh": true,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1787286755681,
@@ -120,8 +120,8 @@
     "lastBreakoutAlertAt": 0
   },
   "SUSHIUSDT": {
-    "touchedZoneHigh": false,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHigh": true,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": false,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1787294814762,
