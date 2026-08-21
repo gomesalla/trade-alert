@@ -37,7 +37,7 @@
     "lastRejectionAlertAt": 1787286754327,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
-    "lastBreakoutAlertAt": 1787175525617
+    "lastBreakoutAlertAt": 1787305857261
   },
   "XRPUSDT": {
     "touchedZoneHigh": true,
@@ -50,8 +50,8 @@
     "lastBreakoutAlertAt": 0
   },
   "DOGEUSDT": {
-    "touchedZoneHigh": false,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHigh": true,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1787303166254,
@@ -90,8 +90,8 @@
     "lastBreakoutAlertAt": 0
   },
   "PEPEUSDT": {
-    "touchedZoneHigh": false,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHigh": true,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": false,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1787303166841,
@@ -100,8 +100,8 @@
     "lastBreakoutAlertAt": 1787289331714
   },
   "SHIBUSDT": {
-    "touchedZoneHigh": false,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHigh": true,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1787303167040,
@@ -127,11 +127,11 @@
     "lastRejectionAlertAt": 1787294814762,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 1785363140627,
-    "lastBreakoutAlertAt": 0
+    "lastBreakoutAlertAt": 1787305858890
   },
   "TWTUSDT": {
-    "touchedZoneHigh": false,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHigh": true,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1787303167506,
