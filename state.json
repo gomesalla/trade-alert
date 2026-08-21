@@ -17,7 +17,7 @@
     "lastRejectionAlertAt": 1787286752952,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
-    "lastBreakoutAlertAt": 1787216099949
+    "lastBreakoutAlertAt": 1787303164606
   },
   "ETHUSDT": {
     "touchedZoneHigh": true,
@@ -50,11 +50,11 @@
     "lastBreakoutAlertAt": 0
   },
   "DOGEUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 1787254376009,
+    "lastRejectionAlertAt": 1787303166254,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
     "lastBreakoutAlertAt": 0
@@ -90,21 +90,21 @@
     "lastBreakoutAlertAt": 0
   },
   "PEPEUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": false,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 1787270315250,
+    "lastRejectionAlertAt": 1787303166841,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 1786928431932,
     "lastBreakoutAlertAt": 1787289331714
   },
   "SHIBUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 1787229448566,
+    "lastRejectionAlertAt": 1787303167040,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
     "lastBreakoutAlertAt": 1787297889545
@@ -130,11 +130,11 @@
     "lastBreakoutAlertAt": 0
   },
   "TWTUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 1785281956665,
+    "lastRejectionAlertAt": 1787303167506,
     "lastBreakdownAlertAt": 0,
     "lastBounceAlertAt": 0,
     "lastBreakoutAlertAt": 0
