@@ -1,10 +1,10 @@
 {
   "SOLUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 1787360221574,
+    "lastRejectionAlertAt": 1787381854851,
     "lastBreakdownAlertAt": 1784302697999,
     "lastBounceAlertAt": 0,
     "lastBreakoutAlertAt": 1787368406205
@@ -120,8 +120,8 @@
     "lastBreakoutAlertAt": 0
   },
   "SUSHIUSDT": {
-    "touchedZoneHigh": false,
-    "touchedZoneHighRSI": false,
+    "touchedZoneHigh": true,
+    "touchedZoneHighRSI": true,
     "touchedZoneLow": false,
     "touchedZoneLowRSI": false,
     "lastRejectionAlertAt": 1787377221822,
