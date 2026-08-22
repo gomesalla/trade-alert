@@ -1,10 +1,10 @@
 {
   "SOLUSDT": {
-    "touchedZoneHigh": true,
-    "touchedZoneHighRSI": true,
+    "touchedZoneHigh": false,
+    "touchedZoneHighRSI": false,
     "touchedZoneLow": true,
     "touchedZoneLowRSI": false,
-    "lastRejectionAlertAt": 1787313552530,
+    "lastRejectionAlertAt": 1787360221574,
     "lastBreakdownAlertAt": 1784302697999,
     "lastBounceAlertAt": 0,
     "lastBreakoutAlertAt": 1787173286052
